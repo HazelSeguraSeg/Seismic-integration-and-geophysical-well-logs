@@ -18,5 +18,5 @@ As a school project and using petrel I carried out the complete seismic integrat
 
 4-Final_Report: Is the report of the integration between the sismic data and geophysical well logs, ending with the estimate of proven and probable reserves.
 
-Spanish
+Spanish:
 Como parte de un projecto academico y utilizando petrel realicé el proceso completo de integración sísmica con registros de pozos geofísicos, con datos sísmicos ya procesados. Como resultado se optuvo a estimación de reservas probadas y probables.
